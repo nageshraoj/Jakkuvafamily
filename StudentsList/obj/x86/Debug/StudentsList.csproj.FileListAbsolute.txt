@@ -1,0 +1,6 @@
+/Users/nagesh_mac/Projects/StudentsList/StudentsList/bin/Debug/StudentsList.exe
+/Users/nagesh_mac/Projects/StudentsList/StudentsList/bin/Debug/StudentsList.pdb
+/Users/nagesh_mac/Projects/StudentsList/StudentsList/obj/x86/Debug/StudentsList.csprojResolveAssemblyReference.cache
+/Users/nagesh_mac/Projects/StudentsList/StudentsList/obj/x86/Debug/StudentsList.csproj.CoreCompileInputs.cache
+/Users/nagesh_mac/Projects/StudentsList/StudentsList/obj/x86/Debug/StudentsList.exe
+/Users/nagesh_mac/Projects/StudentsList/StudentsList/obj/x86/Debug/StudentsList.pdb
