@@ -1,0 +1,6 @@
+/Users/nagesh_mac/Projects/ConvertNumber2Word/ConvertNumber2Word/obj/x86/Debug/ConvertNumber2Word.csprojResolveAssemblyReference.cache
+/Users/nagesh_mac/Projects/ConvertNumber2Word/ConvertNumber2Word/obj/x86/Debug/ConvertNumber2Word.csproj.CoreCompileInputs.cache
+/Users/nagesh_mac/Projects/ConvertNumber2Word/ConvertNumber2Word/bin/Debug/ConvertNumber2Word.exe
+/Users/nagesh_mac/Projects/ConvertNumber2Word/ConvertNumber2Word/bin/Debug/ConvertNumber2Word.pdb
+/Users/nagesh_mac/Projects/ConvertNumber2Word/ConvertNumber2Word/obj/x86/Debug/ConvertNumber2Word.exe
+/Users/nagesh_mac/Projects/ConvertNumber2Word/ConvertNumber2Word/obj/x86/Debug/ConvertNumber2Word.pdb
