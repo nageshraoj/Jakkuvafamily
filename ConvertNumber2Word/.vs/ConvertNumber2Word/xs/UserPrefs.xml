@@ -1,7 +1,6 @@
 ﻿<Properties StartupConfiguration="{D0D6A137-E4EA-4134-8E38-A7B909798263}|Default">
-  <MonoDevelop.Ide.Workbench ActiveDocument="ConvertNumber2Word/Program.cs">
+  <MonoDevelop.Ide.Workbench ActiveDocument="ConvertNumber2Word/Number2Word.cs">
     <Files>
-      <File FileName="ConvertNumber2Word/Program.cs" Line="17" Column="17" />
       <File FileName="ConvertNumber2Word/Number2Word.cs" Line="39" Column="21" />
     </Files>
   </MonoDevelop.Ide.Workbench>
