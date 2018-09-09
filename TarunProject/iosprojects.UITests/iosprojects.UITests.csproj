@@ -35,5 +35,19 @@
     <Compile Include="Tests.cs" />
     <Compile Include="AppInitializer.cs" />
   </ItemGroup>
+  <ItemGroup>
+    <ProjectReference Include="..\iosprojects.iOS\iosprojects.iOS.csproj">
+      <Project>{8DEFA843-A0C0-4E30-AB87-5E3E0BF7E9BD}</Project>
+      <Name>iosprojects.iOS</Name>
+      <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
+      <Private>False</Private>
+    </ProjectReference>
+    <ProjectReference Include="..\iosprojects.Android\iosprojects.Android.csproj">
+      <Project>{0916F1F1-84C4-4FFB-A07C-EFD230F08310}</Project>
+      <Name>iosprojects.Android</Name>
+      <ReferenceOutputAssembly>False</ReferenceOutputAssembly>
+      <Private>False</Private>
+    </ProjectReference>
+  </ItemGroup>
   <Import Project="$(MSBuildBinPath)\Microsoft.CSharp.targets" />
 </Project>

@@ -1,20 +1,13 @@
 ﻿using System;
 
-using Xamarin.Forms;
+using System.Windows.Forms;
 
 namespace sample
 {
-    public class MyPage : ContentPage
+    public class MyPage
     {
-        public MyPage()
-        {
-            Content = new StackLayout
-            {
-                Children = {
-                    new Label { Text = "Hello ContentPage" }
-                }
-            };
-        }
+
     }
-}
+ }
+
 

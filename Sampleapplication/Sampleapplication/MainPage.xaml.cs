@@ -12,6 +12,7 @@ namespace Sampleapplication
         public MainPage()
         {
             InitializeComponent();
+
         }
     }
 }

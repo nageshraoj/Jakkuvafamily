@@ -12,6 +12,8 @@ namespace iosprojects
         public MainPage()
         {
             InitializeComponent();
+            lab.Text = "The Value is {0}";
+            
         }
     }
 }

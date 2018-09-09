@@ -6,6 +6,6 @@
 </head>
 <body>
 	<div>
-
+      sample page
 	</div>
 </body>
