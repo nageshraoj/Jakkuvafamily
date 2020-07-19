@@ -1,0 +1,12 @@
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\bin\Debug\netstandard2.0\StudRepo.deps.json
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\bin\Debug\netstandard2.0\StudRepo.dll
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\bin\Debug\netstandard2.0\StudRepo.pdb
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.csprojAssemblyReference.cache
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.AssemblyInfoInputs.cache
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.AssemblyInfo.cs
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.csproj.CoreCompileInputs.cache
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.dll
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.pdb
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\bin\Debug\netstandard2.0\StudDB.dll
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\bin\Debug\netstandard2.0\StudDB.pdb
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\StudRepo\obj\Debug\netstandard2.0\StudRepo.csproj.CopyComplete

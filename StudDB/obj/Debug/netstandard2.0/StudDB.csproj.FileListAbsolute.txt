@@ -1,0 +1,9 @@
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\bin\Debug\netstandard2.0\StudDB.deps.json
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\bin\Debug\netstandard2.0\StudDB.dll
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\bin\Debug\netstandard2.0\StudDB.pdb
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\obj\Debug\netstandard2.0\StudDB.csprojAssemblyReference.cache
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\obj\Debug\netstandard2.0\StudDB.AssemblyInfoInputs.cache
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\obj\Debug\netstandard2.0\StudDB.AssemblyInfo.cs
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\obj\Debug\netstandard2.0\StudDB.csproj.CoreCompileInputs.cache
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\obj\Debug\netstandard2.0\StudDB.dll
+C:\Users\nages\Documents\Training\CSharp\webapp\App1\studDB\obj\Debug\netstandard2.0\StudDB.pdb
